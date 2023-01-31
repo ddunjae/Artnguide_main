@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "988868233958",
+    "project_id": "artnguide-340907",
+    "storage_bucket": "artnguide-340907.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:988868233958:android:427d8c1584e64ff36dc927",
+        "android_client_info": {
+          "package_name": "com.yeolmae.artnguide"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "988868233958-1ccc3r8ed1ma6jdkt3p5j1n8pqrli27n.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDrLmgOsgkPExDb4pHVctRRk_MkvDZYFtc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "988868233958-1ccc3r8ed1ma6jdkt3p5j1n8pqrli27n.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
